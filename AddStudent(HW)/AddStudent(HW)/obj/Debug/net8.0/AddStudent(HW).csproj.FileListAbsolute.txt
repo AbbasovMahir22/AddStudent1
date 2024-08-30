@@ -1,0 +1,14 @@
+C:\Users\Hp\Desktop\AddStudent\AddStudent(HW)\AddStudent(HW)\obj\Debug\net8.0\AddStudent(HW).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\AddStudent\AddStudent(HW)\AddStudent(HW)\obj\Debug\net8.0\AddStudent(HW).AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\AddStudent\AddStudent(HW)\AddStudent(HW)\obj\Debug\net8.0\AddStudent(HW).AssemblyInfo.cs
+C:\Users\Hp\Desktop\AddStudent\AddStudent(HW)\AddStudent(HW)\obj\Debug\net8.0\AddStudent(HW).csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\AddStudent\AddStudent(HW)\AddStudent(HW)\bin\Debug\net8.0\AddStudent(HW).exe
+C:\Users\Hp\Desktop\AddStudent\AddStudent(HW)\AddStudent(HW)\bin\Debug\net8.0\AddStudent(HW).deps.json
+C:\Users\Hp\Desktop\AddStudent\AddStudent(HW)\AddStudent(HW)\bin\Debug\net8.0\AddStudent(HW).runtimeconfig.json
+C:\Users\Hp\Desktop\AddStudent\AddStudent(HW)\AddStudent(HW)\bin\Debug\net8.0\AddStudent(HW).dll
+C:\Users\Hp\Desktop\AddStudent\AddStudent(HW)\AddStudent(HW)\bin\Debug\net8.0\AddStudent(HW).pdb
+C:\Users\Hp\Desktop\AddStudent\AddStudent(HW)\AddStudent(HW)\obj\Debug\net8.0\AddStudent(HW).dll
+C:\Users\Hp\Desktop\AddStudent\AddStudent(HW)\AddStudent(HW)\obj\Debug\net8.0\refint\AddStudent(HW).dll
+C:\Users\Hp\Desktop\AddStudent\AddStudent(HW)\AddStudent(HW)\obj\Debug\net8.0\AddStudent(HW).pdb
+C:\Users\Hp\Desktop\AddStudent\AddStudent(HW)\AddStudent(HW)\obj\Debug\net8.0\AddStudent(HW).genruntimeconfig.cache
+C:\Users\Hp\Desktop\AddStudent\AddStudent(HW)\AddStudent(HW)\obj\Debug\net8.0\ref\AddStudent(HW).dll
